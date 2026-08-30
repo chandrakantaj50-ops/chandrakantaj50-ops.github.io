@@ -391,7 +391,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
       const mailto =
-        `mailto:chandrakantj50@gmail.com` +
+        `mailto:chandrakantaj50@gmail.com` +
         `?subject=${encodeURIComponent(subject)}` +
         `&body=${encodeURIComponent(body)}`;
 
@@ -412,7 +412,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (status) {
 
           status.textContent =
-            "If your email app did not open, please email chandrakantj50@gmail.com directly.";
+            "If your email app did not open, please email chandrakantaj50@gmail.com directly.";
 
         }
 
